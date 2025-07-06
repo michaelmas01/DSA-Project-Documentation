@@ -6,7 +6,8 @@ The goal of this project is to analyse **Amazon E-Commerce** product data and un
 
 ### Dataset Summary
 - **Source:** Provided Excel dataset (Case Study 1)
-- **Total Records:** 1389 (cleaned)
+- **Total Records:** 1,465 products (raw), 1389 (cleaned) [View/Download the Raw Excel file here - Amazon case study (raw).xlsx](https://github.com/user-attachments/files/21088296/Amazon.case.study.raw.xlsx)
+
 - **Key Columns:** product_id, product_name, category, main_category, actual_price, discounted_price, discount_percentage,   rating, rating_count
 
 ### Tools & Techniques Used
@@ -69,5 +70,4 @@ Each analysis task is placed in its own worksheet, with a unified **Dashboard** 
 ### Conclusion
 This case study demonstrates practical skills in data cleaning, transformation, visualization, and business insight generation using Excel. The combination of technical analysis and strategic insight lays the foundation for further work in retail analytics, marketing, or business intelligence roles.
 
-[Click here to see the complete project work - Amazon case study.xlsx](https://github.com/user-attachments/files/21088238/Amazon.case.study.xlsx)
-
+[Click here to see the complete project work - Amazon case study (completed).xlsx](https://github.com/user-attachments/files/21088276/Amazon.case.study.completed.xlsx)
