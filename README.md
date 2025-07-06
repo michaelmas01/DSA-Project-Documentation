@@ -33,3 +33,25 @@ Analysis was performed through the use of pivot tables and calculated columns to
 12.	How many products have fewer than 1,000 reviews?
 13.	Which categories have products with the highest discounts?
 14.	Identify the top 5 products in terms of rating and number of reviews combined.
+
+### Key Business Insights
+1.	**High Discounts in Key Segments:** “HomeImprovement” and “Computers\&Accessories” offer the highest average discounts (above 50%), suggesting highly competitive or promotional product segments.
+2.	**Product Concentration in Tech:** “Computers\&Accessories” hosts the highest number of products, showing a clear focus on tech accessories and peripherals.
+3.	**High Customer Engagement in Electronics:**  “Electronics” and “Home\&Kitchen” lead in review volume, indicating strong customer interest and possibly higher sales volume.
+4.	**Top Products by Engagement:**  Products like “AmazonBasics HDMI Cables” and “boAt earphones” top the charts in both rating and number of reviews, proving high market trust and popularity.
+5.	**Affordable Pricing Strategy:** A majority of products are priced between ₹200–₹500, reflecting a value-conscious market trend.
+6.	**Discount Doesn’t Affect Rating Much:** Customer satisfaction (ratings) remains relatively stable across different discount levels, implying discounting does not degrade perceived value.
+7.	**Revenue Drivers:** Products with high price + high reviews (like premium electronics and kitchen devices) drive the most potential revenue.
+
+### Dashboard Overview
+The final Excel dashboard summarizes all major insights using:
+1.	PivotTables for breakdowns by category, discount level, and pricing
+2.	Charts for rating trends vs. discount buckets
+3.	Highlight tables for top-performing products by review count and rating
+4.	Summary metrics like:
+- Number of products by discount range
+- Product count by price range
+- Total revenue potential by category
+
+
+Each analysis task is placed in its own worksheet, with a unified Dashboard sheet presenting the visuals and KPIs in a clean, interactive layout.
