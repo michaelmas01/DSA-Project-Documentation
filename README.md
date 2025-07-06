@@ -69,3 +69,5 @@ Each analysis task is placed in its own worksheet, with a unified **Dashboard** 
 ### Conclusion
 This case study demonstrates practical skills in data cleaning, transformation, visualization, and business insight generation using Excel. The combination of technical analysis and strategic insight lays the foundation for further work in retail analytics, marketing, or business intelligence roles.
 
+[Click here to see the complete project work - Amazon case study.xlsx](https://github.com/user-attachments/files/21088238/Amazon.case.study.xlsx)
+
