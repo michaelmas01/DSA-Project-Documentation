@@ -34,6 +34,15 @@ Analysis was performed through the use of pivot tables and calculated columns to
 13.	Which categories have products with the highest discounts?
 14.	Identify the top 5 products in terms of rating and number of reviews combined.
 
+### Chart Presentation
+![Pie Chart - Average Discount %](https://github.com/user-attachments/assets/679dc007-02c3-4d0f-a234-df136708a686)
+![Bar Chart - Ratings](https://github.com/user-attachments/assets/f22e9f1e-7d26-46c8-811e-0ad6ba756871)
+![Bar Chart - Top 3 Reviews](https://github.com/user-attachments/assets/cccad8a2-fd1f-4c75-8143-0d9d04d4cb79)
+![Combo Chart - Average Actual Price VS Discounted Price](https://github.com/user-attachments/assets/e71470d3-21ff-41a9-934e-aa798a7eb33f)
+![Line Chart - Unique Product VS Price Bucket](https://github.com/user-attachments/assets/1d62cc4a-49e2-43d4-8d67-1637c94f1359)
+![Scatter Chart - Discount % VS Rating](https://github.com/user-attachments/assets/6df845fa-015e-4123-b294-93170388a998)
+
+
 ### Key Business Insights
 1.	**High Discounts in Key Segments:** “HomeImprovement” and “Computers\&Accessories” offer the highest average discounts (above 50%), suggesting highly competitive or promotional product segments.
 2.	**Product Concentration in Tech:** “Computers\&Accessories” hosts the highest number of products, showing a clear focus on tech accessories and peripherals.
@@ -49,11 +58,14 @@ The final Excel dashboard summarizes all major insights using:
 2.	Charts for rating trends vs. discount buckets
 3.	Highlight tables for top-performing products by review count and rating
 4.	Summary metrics like:
-- Number of products by discount range
-- Product count by price range
-- Total revenue potential by category
+    - Number of products by discount range
+    - Product count by price range
+    - Total revenue potential by category
 
-[Dashboard](https://github.com/user-attachments/assets/169047d0-d9e6-4c99-9541-0bcc4a684c96)
+![Dashboard](https://github.com/user-attachments/assets/169047d0-d9e6-4c99-9541-0bcc4a684c96)
 
+Each analysis task is placed in its own worksheet, with a unified **Dashboard** sheet presenting the visuals and KPIs in a clean, interactive layout.
 
-Each analysis task is placed in its own worksheet, with a unified Dashboard sheet presenting the visuals and KPIs in a clean, interactive layout.
+### Conclusion
+This case study demonstrates practical skills in data cleaning, transformation, visualization, and business insight generation using Excel. The combination of technical analysis and strategic insight lays the foundation for further work in retail analytics, marketing, or business intelligence roles.
+
