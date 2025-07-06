@@ -53,5 +53,7 @@ The final Excel dashboard summarizes all major insights using:
 - Product count by price range
 - Total revenue potential by category
 
+[Dashboard](https://github.com/user-attachments/assets/169047d0-d9e6-4c99-9541-0bcc4a684c96)
+
 
 Each analysis task is placed in its own worksheet, with a unified Dashboard sheet presenting the visuals and KPIs in a clean, interactive layout.
