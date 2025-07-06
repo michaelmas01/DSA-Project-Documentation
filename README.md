@@ -6,7 +6,7 @@ The goal of this project is to analyse **Amazon E-Commerce** product data and un
 
 ### Dataset Summary
 - **Source:** Provided Excel dataset (Case Study 1)
-- **Total Records:** 1,465 products (raw), 1389 (cleaned) [View/Download the Raw Excel file here - Amazon case study (raw).xlsx](https://github.com/user-attachments/files/21088296/Amazon.case.study.raw.xlsx)
+- **Total Records:** 1,465 products (raw), 1,389 (cleaned) [View/Download the Raw Excel file here - Amazon case study (raw).xlsx](https://github.com/user-attachments/files/21088296/Amazon.case.study.raw.xlsx)
 
 - **Key Columns:** product_id, product_name, category, main_category, actual_price, discounted_price, discount_percentage,   rating, rating_count
 
